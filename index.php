@@ -29,5 +29,44 @@
         <h3>Is het mogelijk om te versnellen?</h3>
         <p>De opleiding duurt normaal gesproken 4 jaar, maar het is mogelijk om de opleiding in 3 jaar af te ronden. Wanneer je versnelt, vlieg je sneller door alle stof heen en hoef je minder lang stage te lopen.</p>
     </div>
+    <div class="question-box">
+        <h3>Onze leraren:</h3>
+        <div class="teacher-box">
+            <img src="img/corne.png" alt="Corne Wagtmans">
+            <h4>Corne Wagtmans</h4>
+            <p>docent NATIVE/PRA</p>
+        </div>
+        <div class="teacher-box">
+            <img src="img/elton.jpg" alt="Elton Boekhoudt">
+            <h4>Elton Boekhoudt</h4>
+            <p>docent WEB/TBZ</p>
+        </div>
+        <div class="teacher-box">
+            <img src="img/michel.png" alt="Michel Meeuwesen">
+            <h4>Michel Meeuwesen</h4>
+            <p>docent PRA</p>
+        </div>
+        <div class="teacher-box">
+            <img src="img/steven.png" alt="Bart Roos">
+            <h4>Steven van Rosendaal</h4>
+            <p>docent PRO/SLB</p>
+        </div>
+        <div class="teacher-box">
+            <img src="img/bart.jpg" alt="Corne Wagtmans">
+            <h4>Bart Roos</h4>
+            <p>docent WIN/WEB/SLB</p>
+        </div>
+        <div class="teacher-box">
+            <img src="img/ine.jpg" alt="Ine Vermeer">
+            <h4>Ine Vermeer</h4>
+            <p>docent WEB/SLB</p>
+        </div>
+        <div class="teacher-box">
+            <img src="img/wicher.png" alt="Wicher Hulzenbosch">
+            <h4>Wicher Hulzenbosch</h4>
+            <p>docent WIN/PRA</p>
+        </div>
+
+    </div>
 </body>
 </html>
