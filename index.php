@@ -55,7 +55,8 @@
             <p>De opleiding duurt normaal gesproken 4 jaar, maar het is mogelijk om de opleiding in 3 jaar af te ronden. Wanneer je versnelt, vlieg je sneller door alle stof heen en hoef je minder lang stage te lopen.</p>
         </div>
         <div class="question-box">
-
+            <h3>Lorem ipsum dolor sit, amet consectetur adipisicing elit?</h3>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus placeat hic esse laboriosam libero voluptatibus tempore voluptatem vel sint aspernatur omnis, nulla repudiandae consequatur. Beatae eum doloribus voluptatibus ab minus?</p>
         </div>
         <div class="question-box big">
             <h3>Onze leraren:</h3>
