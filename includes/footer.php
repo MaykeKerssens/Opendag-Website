@@ -2,16 +2,15 @@
 	<div class="opacity">
 		<h3>contact</h3>
 		<div class="ph15 pcenter">
+			<div class="footer-content">
 				<div class="adres">
-					<ul>
-						<li><p>Adresgegevens
+						<p>Adresgegevens
 							Terheijdenseweg 350
-						4826 AA Breda</p></li>
-						<li><p>Telefoonnummer
-						076-5733444</p></li>
-						<li><p>E-mailadres
-						radiuscollege@curio.nl</p></li>
-					</ul>
+						4826 AA Breda</p>
+						<p>Telefoonnummer
+						076-5733444</p>
+						<p>E-mailadres
+						radiuscollege@curio.nl</p>
 				</div>
 				<div class="social">
 					<a href="https://nl-nl.facebook.com/curioonderwijs target="_blank""><i class="fab fa-facebook-square" ></i></a>
@@ -20,7 +19,7 @@
 
 					<a href="https://www.linkedin.com/school/curioonderwijsgroep/" target="_blank"><i class="fab fa-linkedin"></i></a>
 				</div>
-			
+			</div>			
 		</div>
 	</div>   
 </footer>

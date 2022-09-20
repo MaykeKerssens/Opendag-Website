@@ -188,6 +188,10 @@ html {
   footer .pcenter{
     justify-content: space-between;
   }
+  .footer-content{
+    display: flex;
+    justify-content: space-between;
+  }
   
   .adres, .social{
     width: 30%;
